@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.demo;
+package com.example.supplier;
 
 import org.hibernate.validator.constraints.Length;
 import org.springframework.boot.context.properties.ConfigurationProperties;

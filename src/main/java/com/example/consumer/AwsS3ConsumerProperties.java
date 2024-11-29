@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.demo2;
+package com.example.consumer;
 
 import com.amazonaws.services.s3.model.CannedAccessControlList;
 import org.hibernate.validator.constraints.Length;

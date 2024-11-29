@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.demo2;
+package com.example.consumer;
 
 import com.amazonaws.services.s3.AmazonS3;
 import com.amazonaws.services.s3.transfer.internal.S3ProgressListener;

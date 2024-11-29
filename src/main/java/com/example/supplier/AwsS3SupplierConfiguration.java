@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.demo;
+package com.example.supplier;
 
 import com.amazonaws.services.s3.AmazonS3;
 import com.amazonaws.services.s3.model.ListObjectsRequest;
