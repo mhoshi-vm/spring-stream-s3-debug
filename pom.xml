@@ -48,9 +48,21 @@
 			<version>1.2.1</version>
 		</dependency>
 
-				<dependency>
+		<dependency>
 			<groupId>org.springframework.cloud.fn</groupId>
 			<artifactId>s3-supplier</artifactId>
+			<version>1.2.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.cloud.fn</groupId>
+			<artifactId>s3-consumer</artifactId>
+			<version>1.2.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.cloud.fn</groupId>
+			<artifactId>aggregator-function</artifactId>
 			<version>1.2.1</version>
 		</dependency>
 
